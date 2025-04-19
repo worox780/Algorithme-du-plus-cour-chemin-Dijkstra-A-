@@ -17,7 +17,7 @@
 
  Pour influencer la manière avec laquelle l'algorithme cherche, il faut modifier certaines informations présententes dans la fonction *Get_Node_Connected_To_Current*.
 
- La ligne utilisant la fonction *append* sur la liste *lst_inter*, possède deux coefficients essentiels. Dans le cas où le premier coefficient est de 0,5 et le second strictement positif, l'algorithme se comporte comme A*. Dans le cas où le premier coefficient est de 1 et le second nul, l'algorithme se comporte comme Dijkstra. Libre à vous de modifier ces coefficients tels que vous le souhaitez pour découvrir des actions très éttonantes.
+ La ligne utilisant la fonction *append* sur la liste *lst_inter*, possède deux coefficients essentiels. Dans le cas où le premier coefficient est de 0,5 et le second strictement positif, l'algorithme se comporte comme A*. Dans le cas où le premier coefficient est de 1 et le second nul, l'algorithme se comporte comme Dijkstra. Libre à vous de modifier ces coefficients tels que vous le souhaitez pour découvrir des actions très étonantes.
 
  Les délimitations de la grille donné à l'algorithme du plus court chemin, sont représentées par des cases turquoises
  
